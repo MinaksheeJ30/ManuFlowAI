@@ -104,6 +104,12 @@ ManuFlowAI/
 - Employee Daily Job Summary
 - Overdue Job Reminder
 
+
+## Project Demo
+
+Watch the demo here:
+
+[https://youtu.be/your-video](https://youtu.be/3yqIP4BNmvY)
 ---
 ## Installation
 

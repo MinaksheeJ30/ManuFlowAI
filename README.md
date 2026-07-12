@@ -95,6 +95,45 @@ ManuFlowAI/
 - Overdue Job Reminder
 
 ---
+## Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/MinaksheeJ30/ManuFlowAI.git
+```
+
+Go into the project
+
+```bash
+cd ManuFlowAI
+```
+
+Create virtual environment
+
+```bash
+python -m venv .venv
+```
+
+Activate it
+
+Windows
+
+```bash
+.venv\Scripts\activate
+```
+
+Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+Run Streamlit
+
+```bash
+streamlit run ui/dashboard.py
+```
 
 ## 👩‍💻 Developer
 

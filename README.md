@@ -59,7 +59,9 @@ ManuFlowAI/
 ├── requirements.txt
 └── README.md
 ```
+## System Architecture
 
+![Architecture](assets/architecture.png)
 ---
 
 ## ⚙️ Workflow

@@ -15,6 +15,22 @@ An AI-powered Manufacturing Planning Assistant built using **LangGraph, Streamli
 - 📌 Overdue Job Reminder Automation
 
 ---
+## Dashboard Preview
+
+![Dashboard](assets/dashboard.png)
+
+## AI Planner
+
+![Planner](assets/planner.png)
+
+## Employee Allocation
+
+![Employee](assets/employee.png)
+
+## Workshop Planning
+
+![Workshop](assets/workshop.png)
+
 
 ## 🛠 Tech Stack
 

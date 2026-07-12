@@ -64,6 +64,16 @@ ManuFlowAI/
 ![Architecture](assets/architecture.png)
 ---
 
+## Project Highlights
+
+- 5 AI Agents
+- 4 n8n Automation Workflows
+- Google Sheets Integration
+- Email Automation
+- Professional Streamlit Dashboard
+- LangGraph-based AI Workflow
+
+  
 ## ⚙️ Workflow
 
 1. User enters a manufacturing request.
@@ -134,6 +144,19 @@ Run Streamlit
 ```bash
 streamlit run ui/dashboard.py
 ```
+
+
+## Future Scope
+
+- ERP Integration (SAP / Oracle)
+- Production Scheduling
+- Machine Availability Tracking
+- Predictive Maintenance using AI
+- Live Inventory Synchronization
+- Production Analytics Dashboard
+- QR Code Based Job Tracking
+- Multi-user Authentication
+
 
 ## 👩‍💻 Developer
 

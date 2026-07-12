@@ -1,5 +1,89 @@
-# ManuFlow AI
+# 🏭 ManuFlowAI
 
-An AI-Powered Manufacturing Workflow Assistant
+An AI-powered Manufacturing Planning Assistant built using **LangGraph, Streamlit, Google Sheets, and n8n**.
 
-ManuFlow AI is an intelligent assistant that automates manufacturing planning, inventory verification, procurement, task assignment, and workflow tracking using LangGraph, n8n, Google Sheets, and LLMs.# ManuFlowAI
+## 🚀 Features
+
+- 🤖 AI Manufacturing Planner
+- 📦 Inventory Availability Check
+- 🛒 Automatic Purchase Request Generation
+- 👷 Employee Allocation
+- 🏭 Workshop Operation Sheet Generation
+- 📊 Google Sheets Integration
+- 📧 Email Automation using n8n
+- ⏰ Daily Job Summary Automation
+- 📌 Overdue Job Reminder Automation
+
+---
+
+## 🛠 Tech Stack
+
+- Python
+- Streamlit
+- LangGraph
+- LangChain
+- Groq LLM
+- Google Sheets API
+- gspread
+- n8n
+- Gmail API
+
+---
+
+## 📂 Project Structure
+
+```text
+ManuFlowAI/
+│
+├── agents/
+├── database/
+├── graph/
+├── models/
+├── ui/
+├── requirements.txt
+└── README.md
+```
+
+---
+
+## ⚙️ Workflow
+
+1. User enters a manufacturing request.
+2. AI extracts manufacturing details.
+3. Inventory is checked.
+4. Purchase Request is generated if stock is unavailable.
+5. Employee is assigned.
+6. Workshop operation sheet is prepared.
+7. Job is stored in Google Sheets.
+8. n8n automations handle notifications and reminders.
+
+---
+
+## 🤖 AI Agents
+
+- Planner Agent
+- Inventory Agent
+- Purchase Agent
+- Employee Agent
+- Workshop Agent
+
+---
+
+## 🔄 n8n Workflows
+
+- Purchase Request Email Automation
+- Daily Purchase Reminder
+- Employee Daily Job Summary
+- Overdue Job Reminder
+
+---
+
+## 👩‍💻 Developer
+
+**Minakshee Jamsandekar**
+
+Mechanical Engineering
+
+VJTI Mumbai
+
+Lenovo LEAP Internship 2026

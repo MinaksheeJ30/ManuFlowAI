@@ -110,7 +110,9 @@ ManuFlowAI/
 Watch the demo here:
 
 [https://youtu.be/ManuFlowAI_DEMO_VIDEO](https://youtu.be/3yqIP4BNmvY)
+
 ---
+
 ## Installation
 
 Clone the repository

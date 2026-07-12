@@ -1,0 +1,35 @@
+.main {
+    background-color: #f7f9fc;
+}
+
+h1 {
+    color: #1565C0;
+    font-weight: bold;
+}
+
+.stButton>button {
+    width: 100%;
+    background-color: #1565C0;
+    color: white;
+    border-radius: 10px;
+    height: 50px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.stButton>button:hover {
+    background-color: #0D47A1;
+}
+
+.block-container {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+div[data-testid="stExpander"] {
+    border-radius: 12px;
+}
+
+textarea {
+    border-radius: 10px !important;
+}
